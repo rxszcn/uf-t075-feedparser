@@ -111,6 +111,7 @@ default (all others are stripped):
     * option
     * output
     * p
+    * picture
     * pre
     * progress
     * q
@@ -126,6 +127,7 @@ default (all others are stripped):
     * strike
     * strong
     * sub
+    * summary
     * sup
     * table
     * tbody
@@ -265,8 +267,10 @@ by default (all others are stripped):
     * selected
     * shape
     * size
+    * sizes
     * span
     * src
+    * srcset
     * start
     * step
     * summary
